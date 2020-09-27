@@ -1,21 +1,16 @@
 PODS:
   - Eureka (5.2.1)
-  - GenericPasswordRow (3.1.0):
-    - Eureka (~> 5.2)
 
 DEPENDENCIES:
   - Eureka (= 5.2.1)
-  - GenericPasswordRow (~> 3.1)
 
 SPEC REPOS:
   trunk:
     - Eureka
-    - GenericPasswordRow
 
 SPEC CHECKSUMS:
   Eureka: c883105488e05bc65539f583246ecf9657cabbfe
-  GenericPasswordRow: 04e282bdeea32d04e0dfe94b8c90538a0eb3700e
 
-PODFILE CHECKSUM: c74a22faa4efabf2e71b6d7dae643da894edf9ae
+PODFILE CHECKSUM: 3ba611ed744e4118bb9a386fa4fa2bda6ec6edea
 
 COCOAPODS: 1.9.3

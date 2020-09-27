@@ -6,5 +6,4 @@ target 'book-app' do
   use_frameworks!
 
   pod 'Eureka', '5.2.1'
-  pod 'GenericPasswordRow', '~> 3.1'
 end
